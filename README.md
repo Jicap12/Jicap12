@@ -1,5 +1,5 @@
 <!-- バナー -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=D4AF37&height=200&section=header&text=こんにちは%20👋,%20Jicap12%20です&fontSize=40&fontColor=000&animation=fadeIn&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=D4AF37&height=200&section=header&text=こんにちは%20👋,%20Jicap12%20です&fontSize=39&fontColor=000&animation=fadeIn&fontAlignY=35)
 
 <!-- 自己紹介 -->
 ## 👨‍💻 自己紹介
@@ -23,15 +23,17 @@
 ---
 
 ## 📊 GitHub 統計
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jicap12&show_icons=true&title_color=D4AF37&icon_color=D4AF37&text_color=000&bg_color=ffffff)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jicap12&layout=compact&title_color=D4AF37&text_color=000&bg_color=ffffff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jicap12&show_icons=true&theme=gruvbox&hide=prs,issues,contribs&title_color=FFD700&icon_color=FFD700&text_color=ffffff)  
 
 ---
 
 ## 🚀 注目プロジェクト
-| プロジェクト | 説明 | 技術 |
-|--------------|------|------|
-| [**学生管理システム**](https://github.com/Jicap12/HeThongQuanLySinhVien) | 学生を追加・編集・削除し、権限管理も可能なWebアプリ | Spring Boot, Thymeleaf, MySQL |
+
+<!-- Các repo cards ghim repo nổi bật theo theme tương thích -->
+
+<a href="https://github.com/Jicap12/HeThongQuanLySinhVien" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jicap12&repo=HeThongQuanLySinhVien&theme=gruvbox" alt="HeThongQuanLySinhVien" />
+</a>
 
 ---
 
@@ -42,4 +44,4 @@
 ---
 
 <!-- フッター -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=D4AF37&height=150&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=D4AF37&height=150&section=footer&text=よろしくお願いします!&fontSize=39&fontColor=000&animation=fadeIn&fontAlignY=79)
