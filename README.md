@@ -1,5 +1,5 @@
 <!-- バナー -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=D4AF37&height=200&section=header&text=こんにちは%20👋,%20Tran%20Quoc%20です&fontSize=40&fontColor=000&animation=fadeIn&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=D4AF37&height=200&section=header&text=こんにちは%20👋,%20Jicap12%20です&fontSize=40&fontColor=000&animation=fadeIn&fontAlignY=35)
 
 <!-- 自己紹介 -->
 ## 👨‍💻 自己紹介
